@@ -61,7 +61,7 @@ Explore individual tracks and filter by genre, explicit content, or mood.
 
 ## 📸 Preview
 
-![Dashboard Overview](assets/dashboard-screenshot.png)
+![Dashboard Overview](assets/Overview.png)
 
 ---
 
